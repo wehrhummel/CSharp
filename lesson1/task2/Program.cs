@@ -1,0 +1,17 @@
+﻿int i1 = 5;
+int i2 = 6;
+int summa = i1 + i2;
+long i3 = 23;
+int i4 = 6;
+long summa2 = i3 + i4;
+double d1 = 7.3;
+double summa3 = d1 + i4;
+Console.WriteLine(summa);
+Console.WriteLine(summa2);
+Console.WriteLine(summa3);
+Console.WriteLine((d1 * i4));
+int quotient = i1 / i2;
+double d2 = 6;
+double quotient2 = i1 / d2;
+Console.WriteLine(quotient);
+Console.WriteLine(quotient2);
